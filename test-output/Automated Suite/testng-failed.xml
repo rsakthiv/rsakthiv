@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [Automated Suite]" guice-stage="DEVELOPMENT">
+  <test thread-count="5" name="Automated Team RCB Test Suite(failed)">
+    <classes>
+      <class name="rcb.TeamRCBTests">
+        <methods>
+          <include name="verifyRCBTeamHasOnlyFourForiegnPlayers"/>
+          <include name="verifyRCBTeamHasWicketKeeper"/>
+          <include name="startUp"/>
+        </methods>
+      </class> <!-- rcb.TeamRCBTests -->
+    </classes>
+  </test> <!-- Automated Team RCB Test Suite(failed) -->
+</suite> <!-- Failed suite [Automated Suite] -->

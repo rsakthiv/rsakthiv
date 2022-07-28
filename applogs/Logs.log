@@ -1,0 +1,35 @@
+2022-07-28 10:34:19 INFO  TeamRCBTests:19 - **** Test Execution Started ****
+2022-07-28 10:34:19 INFO  TeamRCBTests:24 - verifyRCBTeamHasOnlyFourForiegnPlayers() test started
+2022-07-28 10:45:10 INFO  TeamRCBTests:20 - **** Test Execution Started ****
+2022-07-28 10:45:10 INFO  TeamRCBTests:25 - verifyRCBTeamHasOnlyFourForiegnPlayers() test started
+2022-07-28 10:45:37 INFO  TeamRCBTests:20 - **** Test Execution Started ****
+2022-07-28 10:45:37 INFO  TeamRCBTests:25 - verifyRCBTeamHasOnlyFourForiegnPlayers() test started
+2022-07-28 10:47:21 INFO  TeamRCBTests:23 - **** Test Execution Started ****
+2022-07-28 10:47:21 INFO  TeamRCBTests:28 - verifyRCBTeamHasOnlyFourForiegnPlayers() test started
+2022-07-28 10:47:43 INFO  TeamRCBTests:23 - **** Test Execution Started ****
+2022-07-28 10:47:43 INFO  TeamRCBTests:28 - verifyRCBTeamHasOnlyFourForiegnPlayers() test started
+2022-07-28 10:47:43 INFO  TeamRCBTests:31 - verifyRCBTeamHasOnlyFourForiegnPlayers() test completed
+2022-07-28 10:49:29 INFO  TeamRCBTests:24 - **** Test Execution Started ****
+2022-07-28 10:49:29 INFO  TeamRCBTests:29 - verifyRCBTeamHasOnlyFourForiegnPlayers() test started
+2022-07-28 10:49:29 INFO  TeamRCBTests:32 - verifyRCBTeamHasOnlyFourForiegnPlayers() test completed
+2022-07-28 10:49:29 INFO  TeamRCBTests:37 - verifyTeamHasWicketKeeper() test started
+2022-07-28 10:57:21 INFO  TeamRCBTests:24 - **** Test Execution Started ****
+2022-07-28 10:57:21 INFO  TeamRCBTests:29 - verifyRCBTeamHasOnlyFourForiegnPlayers() test started
+2022-07-28 10:57:21 INFO  TeamRCBTests:37 - verifyTeamHasWicketKeeper() test started
+2022-07-28 11:00:47 INFO  TeamRCBTests:24 - **** Test Execution Started ****
+2022-07-28 11:00:47 INFO  TeamRCBTests:29 - verifyRCBTeamHasOnlyFourForiegnPlayers() test started
+2022-07-28 11:00:47 INFO  TeamRCBTests:32 - verifyRCBTeamHasOnlyFourForiegnPlayers() test completed
+2022-07-28 11:00:47 INFO  TeamRCBTests:37 - verifyTeamHasWicketKeeper() test started
+2022-07-28 11:04:04 INFO  TeamRCBTests:24 - **** Test Execution Started ****
+2022-07-28 11:04:04 INFO  TeamRCBTests:29 - verifyRCBTeamHasOnlyFourForiegnPlayers() test started
+2022-07-28 11:04:04 INFO  TeamRCBTests:32 - verifyRCBTeamHasOnlyFourForiegnPlayers() test completed
+2022-07-28 11:04:04 INFO  TeamRCBTests:37 - verifyTeamHasWicketKeeper() test started
+2022-07-28 11:04:04 INFO  TeamRCBTests:40 - verifyTeamHasWicketKeeper() test completed
+2022-07-28 11:18:56 INFO  TeamRCBTests:20 - **** Test Execution Started ****
+2022-07-28 11:18:56 INFO  TeamRCBTests:25 - verifyRCBTeamHasOnlyFourForiegnPlayers() test started
+2022-07-28 11:18:56 INFO  TeamRCBTests:34 - verifyRCBTeamHasWicketKeeper() test started
+2022-07-28 11:25:21 INFO  TeamRCBTests:20 - **** Test Execution Started ****
+2022-07-28 11:25:21 INFO  TeamRCBTests:25 - verifyRCBTeamHasOnlyFourForiegnPlayers() test started
+2022-07-28 11:25:21 INFO  TeamRCBTests:29 - verifyRCBTeamHasOnlyFourForiegnPlayers() test completed
+2022-07-28 11:25:21 INFO  TeamRCBTests:34 - verifyRCBTeamHasWicketKeeper() test started
+2022-07-28 11:25:21 INFO  TeamRCBTests:38 - verifyRCBTeamHasWicketKeeper() test completed

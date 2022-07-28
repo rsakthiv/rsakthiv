@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+
+<suite name="Automated Suite">
+
+
+	<test name="Automated Team RCB Test Suite">
+
+		<classes>
+
+			<class name="rcb.TeamRCBTests" />
+		</classes>
+	</test>
+</suite>
